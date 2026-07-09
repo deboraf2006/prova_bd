@@ -1,0 +1,6 @@
+# ARQUIVO DE REQUISITOS - AVALIAÇÃO NO SQL
+#Este arquivo avisa ao Python quais bibliotecas externas
+# o código precisa para funcionar.
+
+
+# Precisamos do PyMongo para fazer o Python conversar com o MongoDB
